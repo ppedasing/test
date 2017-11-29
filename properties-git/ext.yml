@@ -1,1 +1,3 @@
 
+config:
+  provider-name: this configuration from ext
